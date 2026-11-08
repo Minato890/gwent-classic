@@ -6,7 +6,7 @@ Array.prototype.remove = function(elem)
 	if (index !== -1)
 		this.splice(index, 1);
 }
-
+afds
 function isEmpty(obj)
 {
 	for (const property in obj)
